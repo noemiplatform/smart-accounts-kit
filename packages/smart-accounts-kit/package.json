@@ -1,10 +1,9 @@
 {
   "name": "@metamask/smart-accounts-kit",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "type": "module",
   "description": "Toolkit for managing and interacting with MetaMask Smart Accounts, built on Viem",
   "license": "(MIT-0 OR Apache-2.0)",
-  "private": true,
   "keywords": [
     "MetaMask",
     "Ethereum"
@@ -117,13 +116,13 @@
     "@metamask/7715-permission-types": "^0.3.0",
     "@metamask/delegation-abis": "^0.11.0",
     "@metamask/delegation-core": "^0.2.0",
-    "@metamask/delegation-deployments": "^0.12.0",
+    "@metamask/delegation-deployments": "^0.13.0",
     "buffer": "^6.0.3",
     "webauthn-p256": "^0.0.10"
   },
   "devDependencies": {
-    "@lavamoat/allow-scripts": "^2.3.1",
-    "@lavamoat/preinstall-always-fail": "^1.0.0",
+    "@lavamoat/allow-scripts": "^3.4.0",
+    "@lavamoat/preinstall-always-fail": "^2.1.1",
     "@metamask/auto-changelog": "^5.0.2",
     "@metamask/eslint-config": "^12.0.0",
     "@metamask/eslint-config-nodejs": "^12.0.0",
